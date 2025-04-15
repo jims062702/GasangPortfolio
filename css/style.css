@@ -265,10 +265,10 @@ header.sticky .nav-bar{
     background: var(--hover-color);
 }
 .home-container .home-img{
+    margin-top: 25px;
     position: relative;
 }
 .home-container .home-img img{
-    padding-top: 100px;
     width: 130%;
     transform: translate(0, 0);
 }
